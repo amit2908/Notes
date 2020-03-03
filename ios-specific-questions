@@ -1,0 +1,127 @@
+1. What is GCD and why it is used?
+2. AutoLayout pen paper examples.
+3. Difference b/w delegate and delegating class?
+4. What is a singleton object? In what conditions it is used?
+5. Different ways and types of data storage and the circumstances in which they are used.
+6. Benefits of swift over objective-c.
+7. Why swift was introduced?
+8. What is protocol oriented programming? Difference b/w protocol and interface. 
+9. Benefits of protocol oriented programming over object-oriented programming.
+10. Which is better b/w Core data and Sqlite and why?
+11. Difference b/w Delegate and KVO in terms of relationship(one-to-one, one-to-many,etc) b/w objects. Delegate vs Notification and when to use which?
+12. MRC and ARC? How ARC works in Swift?
+13. What do you like most in swift 4?
+14. Third-party libraries that you have used.
+15. Networking, NSURLCONNECTION, NSURLSession, Alamofire
+16. Difference b/w property and normal variable.
+17. How to pass back the data while poping out or dismissal of a ViewController from the navigation stack or just normally?
+18. By default the tasks run on which thread and how can you identify that any task is running on which type of thread?
+19. What are the minimum number of contraints that needs to be implemented for any view?
+20. What is the difference between NSString and NSMutableString?
+21. How to access the nth last of the element in the linked list in just one loop?
+22. What is the difference between delegates and notification?
+23. What is the process of creating provisioning profiles?
+24. What is the difference between explicit app id and a wild card app id?
+25. VIPER - RXSwift 
+26. Can we use protocols in extensions?
+27. What are lazy properties? How do we declare it? Do we use ‘var’ or ‘let’ keyword to declare it and why ?
+28. Difference b/w Stored and Computed Properties. Why stored properties are not used in extension?
+29. How to achieve inheritance in Swift?
+30. Give an example of Abstraction in Swift.
+31. What is the efficient way of background downloading?
+32. MVVM vs MVP Architecture Model
+33. What is GCD Group (DispatchGroup) ?
+34. In Optional Binding can we use if-var instead of if-let ?
+35. Explain some new feature in Swift 5.0.
+36. BLE vs iBeacon. UART and core bluetooth service
+37. Explain SOLID Principles with example.
+38. What is extension?
+39. Can we call HTTP request and not HTTPS requests and how?
+40. What is the efficient way of using URLSession for API Calling?
+41. What is SSL Pinning? Why and How it can be implemented in iOS?
+42. How can we ensure security in API calls?
+43. Difference b/w protocols in Obj-C and Swift? How optional methods can be declared in Swift?
+44. Why Swift is protocol-oriented programming language?
+45. APP is live. You found or someone reported a crash? What will be your approach to solve it?
+46. AutoLayout and Size-Classes.
+47. XC-Test how to call function/var from class to tests ?
+48. Can we define var in protocol?
+49. How to add dependency of a third task on first and second tasks completion where first and second both are independent of each other?
+50. AES and security.
+51. What is fall through keyword in Swift switch case?
+52. What is the meaning of ?? And ??? Operators in Swift?
+53. Where do we use Abstraction, Inheritance and Polymorphism in Swift?
+54. Protocol Oriented vs Functional vs Object Oriented Programming
+55. Thread management / multithreading.
+56. Thread vs Process
+57. Thread vs Queue
+58. SVN vs Git
+59. Core Data vs Sqlite ? Thread Safety in Core Data.
+60. Module Oriented Programming
+61. Manage Code Quality, Code Verification.
+62. Create custom delegate.
+63. Can we write delegate without using protocol?
+64. Difference b/w closure and functions?
+65. Difference b/w closure and delegates?
+66. Difference b/w escaping closure and non-escaping closures?
+67. What is ‘defer’ keyword?
+68. What is a Higher Order Function?
+69. What are Generics? Why and When should we use it?
+70. What is a Singleton and How it is declared?
+71. Difference b/w class and struct and enum.
+72. Difference b/w ? And !  In Swift.
+73. What is Optional Chaining? 
+74. AVFoundation and AudioVideoKit
+75. How to handle deprecated methods?
+76. Email/ Phone authentication using Firebase. AES Encryption 128
+77. Localization  in iOS
+78. Apple Pay and other payment gateways like stripe, velocity, etc.
+79. FB/Instagram sharing.
+80. APNS vs local notification
+81. Cross platform, Cordova, ionic or react-native
+82. Audio-Video streaming iOS
+83. Voice Calling using Twilio
+84. ARKit
+85. Third-Party Integrations using Carthage vs Cocopods vs SPM.
+86. CLLocation Manager
+87. MapKit and Google Map
+88. Memory Management, retain, assign, copy, readonly, unowned
+89. Different ways of passing data in iOS.
+90. Extension vs Category
+91. KVC/KVO
+92. Observer Pattern Will Set and Did Set.
+93. What is lazy loading, database backup and updates?
+94. What are the offline storage available in iOS?
+95. Apple Standards and Rules , UI/UX .
+96. Perfomance Tuning and Memory Tuning using Instruments/ Sharks
+97. Continues Integration
+98. What is optional protocol and conditional protocol?
+99. What is Dependency Injection?
+100. Can we write extension on Protocol, Class or Struct?
+101. Can we use inheritance in enum?
+102. Can we write protocol in enum?
+103. Access Specifiers in Swift?
+104. Tuples vs Sets
+105. Write code to add/remove an element in array and check if an array is empty?
+106. Update location in background.
+107. Type Casting/ Upcasting / Downcasting
+108. Error Handling
+109. Location sensors, geo fencing, geocoding motion data/ core graphics and core text.
+110. API Foundation, UIKit, CocoaTouch
+111. Swift Lint
+112. Alamafire, WebSockets
+113. Devops, Jenkins, GitStash, Travis
+114. iMessage & sticker pack application
+115. In-app purchase
+116. Types of Push Notifications
+117. Debugging Tools
+118. Deployment Process/ App Distribution Testing
+119. Restful API JSON/XML/SOAP
+120. Storyboard vs XIB vs programattic View
+121. Health Kit, iCloud
+122. Sensor API (Camera, Accelerometer, GPS, 3D Touch, Blink Detection, Gesture Detection)
+123. Paypal and Other Payment Integration
+124. Realm DB
+125. What is Designated Initializers?
+126. What is Mutating Properties?
+127. What is deinit in Swift?
