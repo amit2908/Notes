@@ -1,0 +1,43 @@
+Swift 5
+
+Swift 5 is ABI Stable!
+What is ABI Stability? ABI stands for Application Binary Interface. It enables binary compatibility between apps and libraries compiled with different Swift versions. So far every iOS application ships its own Swift version. This is because Swift isn’t available as a part of the iOS itself.
+From Swift 5, ABI stability would allow future swift versions to be binary compatible with Swift 5.
+Hence we won’t have to ship Swift with our applications anymore. This will reduce the bundle size. Also, there will be compatibility between applications and libraries that may have been compiled with different Swift versions.
+
+
+
+Swift 5.1
+
+1. Opaque Return Types: 
+This is introduced in Swift 5.1 and solves a problem while writing functions with Generic Return Types.
+
+Since in a generic function with generic return type, when a caller calls it, a concrete type is inserted into the function and that generic type carries the information of this generic type till the end, that is, until the function returns, the generic type reveals the information about the concrete type in the end. 
+
+But if we want to generalise the type and also hide its concrete type information in a function. We can instead of using generic return type in the generic function, we can use opaque return type in the same generic function return type. Note that the arguments of the function will still be generic. Using this concept we are combining generic arguments with opaque return types to define the function signature.
+
+But how does this happen?
+
+The opaque return types actually is defined by ‘some’ keyword. Eg.
+
+* func makeTrapezoid() -> some Shape {
+* let top = Triangle(size: 2)
+* let middle = Square(size: 2)
+* let bottom = FlippedShape(shape: top)
+* let trapezoid = JoinedShape(
+* top: top,
+* bottom: JoinedShape(top: middle, bottom: bottom)
+* )
+* return trapezoid
+* }
+
+Here Shape is a protocol and also the opaque return type, which means the function will return an object which must implement the Shape Protocol.
+
+
+References:
+https://docs.swift.org/swift-book/LanguageGuide/OpaqueTypes.html
+
+1. UIViewController initialiser with dependency injection 
+2. Optional unwrapping upgrade, where you can unwrap an object in an optional chain by just putting an exclamation mark ! at the end rather than adding an exclamation mark for each one.
+
+
