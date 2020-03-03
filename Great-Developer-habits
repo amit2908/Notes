@@ -1,0 +1,33 @@
+Great Developer habits
+https://developer.apple.com/videos/play/wwdc2019/239/
+
+https://developer.apple.com/videos/play/wwdc2019/237/
+
+
+Points and advantages following them:
+
+1. Code Review
+	* Emphasises best practices
+    	* Emphasises code reusability and code scalability.
+
+2. Automated UI and Unit Testing
+	* Emphasises Code Quality and Code Scalability
+	* Reduces re-work by identifying and escalation of issues on time.
+ 
+3. Ensure Product Quality:
+    	* Improves performance of the product.
+	* Improves relationship with client resulting in more business.
+
+4. Modular Approach:
+	* Helps automated testing
+	* Improves speed by reusability.
+	* Improves analytical skills
+	* Makes cost estimation easy
+
+5. Comment your code like writing a book.
+	* Helps other developers to understand your code.
+	* Reduces dependencies so that you can take holidays whenever you want.
+
+6. Stay updated and learn like a kid .
+	* Helps in being first to grab business opportunities in the market.
+	* Helps in every part.
