@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T14:30:59.499Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Um_HpcUYz2VdfdzMC9-Z" version="14.8.0" type="github"><diagram id="q2KYkZf0-lph-4Sgjyss" name="Strategy Pattern">7VhRc9o4EP41zPQe0sE2puQRnDR9oNPMkZu2j8KWLTWyxMhLgP76W8kStjGk5C4093AzzGB9XonV9+2uVgyipNzeabJin1VGxSAcZttBdDMIw2AYx/hlkF2NjD4ENVBonjmjBljwn9TPdOiaZ7TqGIJSAviqC6ZKSppCByNaq03XLFei+6srUtAesEiJ6KNfeQasRifhhwb/RHnB/C8H4+v6TUm8sdtJxUimNi0ouh1EiVYK6qdym1BhyPO81PM+nni7d0xTCedMeLhL51/Tq78oHd19Ka5ZlKhvV87ZJyLWbsPOWdh5BmiGhLih0sBUoSQRtw0602otM2p+Zoijxmau1ArBAMEfFGDn1CVrUAgxKIV7S2U2NVrhUCpJa+QjF8ItWQHR4C2WQqWPHmwZ1Y4bb08S5KBKrXVKn2HFBxrRBYVn7CZ7GTH+qSop6B3O01QQ4E9dP4gLxGJv12iFD06uF0gXvJFU6Ps3M/997Iff3XJ2cLPtjHYvkfBXcfAGEgfDN9W4n55JOJjOuASqc4I7xOEMeRkL3MRsqfGpAMuUQzwwo4w8cWTFv0F/lo31QSC1BHceUA10+zzrfZLchFHsSqA7A8ZuuGkKauDrPWsVU2/36rSGPVoTwc1mwmEiSFX1+Kg2vBTERmSuJPgcM/wQwQuJzyk1miBgqOJ4gEzdCzCZNUsZF9mc7NTabA4DP330oxlTmv/EZYnn3OaFS8Fw3LFYmJkuHTSt0Obe6xAcQJ/JtmM4JxU4IFVCkFXFl/ttlJgIXM4UgCo72favlA/CrvKTI8qPjyg/GV9I+ejIeYcbHS736RFNcdjKloNIQC7AKqTVI02UULopVjlWqgPIR4egOZyMjWpFUi6LubW5GTXIn44RAymcmwtbGxnPMiptNQcCpBbRKLZSWBgsZfEMP0hsYsp0jI4nOA6aMX6MuYZESdwL4VZPihGyoRWcK/7p5OpHhIuAcHxeBISXioDRrzsewa12tca+6wv+kcAlSmUPXqfogz1mr4Ke6lFf9eiIwoIsqbhXFQeuzPq6tj1Q/q3EjcMz0/tC2sYnsptLDu/2Kf7H/zl+2TA4dr7/1hyf9OKgJfZw2hN8wzjQxYrYjnGDF9luz/sKB2E06R6EwSTucxT+zh7IN1wnSOr3hJcnKR7950g6dlrU/TMLfPe8wNwCWpiN3BPAJlC2euzGzIMZf/LQA+OVZcjNGmY0x7PHYDkpuTBLqtxsTBTYAQIrTdfeqJSY25BMsZNb423EzqMkZWYWViY3FxgtzRIys/9KPFozB9p7RMqILKgpMe9bjrfc9ChWLOmxqV0O2NqtZmNlz0OzI0GhsWhtAym10nO8jq7wlochYreba1Xu7VPblbe9artwqm63gvLcEu5qMQJx76wOTdU9FvzHq3X7fv0aHfS4mxPhdb+4jo4V132ivCApcNj8H2Xftf7Vi27/Bg==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-04T14:32:24.498Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="TZOfqsZKEILAl3gtoKPR" version="14.8.0" type="github" pages="2">
+  <diagram id="q2KYkZf0-lph-4Sgjyss" name="Strategy Pattern">
+    <mxGraphModel dx="1055" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TGcLWc-Uee4GOg9h3CoX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=block;startFill=0;" parent="1" source="TGcLWc-Uee4GOg9h3CoX-1" target="TGcLWc-Uee4GOg9h3CoX-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TGcLWc-Uee4GOg9h3CoX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" parent="1" source="TGcLWc-Uee4GOg9h3CoX-1" target="TGcLWc-Uee4GOg9h3CoX-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TGcLWc-Uee4GOg9h3CoX-1" value="«interface»&lt;br&gt;&lt;b&gt;Behaviour&lt;/b&gt;" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="60" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGcLWc-Uee4GOg9h3CoX-2" value="Client Class" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="TGcLWc-Uee4GOg9h3CoX-3" value="+ behaviour: Behaviour" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TGcLWc-Uee4GOg9h3CoX-2" vertex="1">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TGcLWc-Uee4GOg9h3CoX-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="TGcLWc-Uee4GOg9h3CoX-2" vertex="1">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="TGcLWc-Uee4GOg9h3CoX-5" value="+ init(behaviour): Behaviour" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TGcLWc-Uee4GOg9h3CoX-2" vertex="1">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TGcLWc-Uee4GOg9h3CoX-8" value="Behaviour A" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGcLWc-Uee4GOg9h3CoX-10" value="Behaviour B" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGcLWc-Uee4GOg9h3CoX-14" value="&lt;h1&gt;Strategy Pattern&lt;/h1&gt;&lt;div&gt;This pattern defines family of algorithm/behaviour, encapsulates each one of them and makes them interchangeable.&lt;/div&gt;&lt;span&gt;And thus the strategy pattern lets the algorithm vary independently from the client.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;he&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;strategy pattern&lt;/b&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;(also known as the policy&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;pattern&lt;/b&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;) is a behavioral software&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;design pattern&lt;/b&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;that enables selecting an algorithm at runtime&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="290" width="460" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hu-1-3rTjaWKPTxyzdsm" name="AbstractFactoryPattern">
+    <mxGraphModel dx="1055" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="GY0udBEDjr4X1gsPIaK8-0" />
+        <mxCell id="GY0udBEDjr4X1gsPIaK8-1" parent="GY0udBEDjr4X1gsPIaK8-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
